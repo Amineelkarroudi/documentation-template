@@ -1,15 +1,16 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "collections": "Collections Framework",
+  "dateAndTime": "Date And Time",
+  "exceptions": "Exceptions",
   "about": {
-    "title": "About",
+    "title": "About Me",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Linkedin ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.linkedin.com/in/amineelkarroudi/",
     "newWindow": true
   }
 }
