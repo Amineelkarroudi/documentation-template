@@ -50,7 +50,6 @@ const config: DocsThemeConfig = {
   // Show last updated timestamp
   gitTimestamp: true,
   // Show reading time
-  readingTime: true,
   // Custom 404 page
   notFound: {
     content: <span>Sorry, we couldn’t find what you’re looking for.</span>,
