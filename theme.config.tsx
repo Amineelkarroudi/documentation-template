@@ -53,7 +53,6 @@ const config: DocsThemeConfig = {
   readingTime: true,
   // Custom 404 page
   notFound: {
-    title: 'Page Not Found',
     content: <span>Sorry, we couldn’t find what you’re looking for.</span>,
   },
 }
